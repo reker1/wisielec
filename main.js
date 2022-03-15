@@ -5,7 +5,7 @@ var bledy=0;
 
 
 function start(){
-    slowa=["prusy","mazowsze","wielkopolska","pomorze","śląsk","podlasie","małopolska"]
+    slowa=["prusy","mazowsze","wielkopolska","pomorze","śląsk","podlasie","małopolska","polska","lwów","wilno","warszawa","poznań","kraków","wrocław","królewiec","gdańsk","gdynia","piła","węgiel"]
     slowo= slowa[Math.floor(Math.random()* slowa.length)];
     dl=slowo.length;
 
